@@ -4,5 +4,6 @@ A simple weather application that fetches and displays the current weather infor
 ## Files:
 - `index.html: Contains the HTML structure for the application.
 - `styles.css:  Contains the CSS for the styling of the application.
+- ` weatherApp.js: Contains the javascript code for fetching and displaying the weather information.
 
  
